@@ -1,6 +1,6 @@
 # Flow Matching Project
 
-This project runs a simple flow-matching example on the antibody structure `hu-4D5-8_Fv.pdb` (from the RFantibody example inputs at [https://github.com/RosettaCommons/RFantibody/tree/main/scripts/examples/example_inputs](https://github.com/RosettaCommons/RFantibody/tree/main/scripts/examples/example_inputs) :contentReference[oaicite:0]{index=0} ) and a Google Colab notebook.
+This project runs a simple flow-matching example on the antibody structure `hu-4D5-8_Fv.pdb` (from [Rosetta COmmons RFantibody Example Input](https://github.com/RosettaCommons/RFantibody/tree/main/scripts/examples/example_inputs)) and a Google Colab notebook.
 
 **How to run**  
 1. Open `flow_matching.ipynb` in [Google Colab](https://colab.research.google.com/).  
